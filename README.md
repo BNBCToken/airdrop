@@ -1,4 +1,4 @@
-# Decentrilized app for ERC20 token airdrop
+# Decentrilized app for ERC20 / BEP20 Token airdrop
 
 With this app, you can transfer your token until to 150 addresses at once, simple UI, configurations and features. <br><br>
 How to run the project:
