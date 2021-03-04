@@ -12,5 +12,5 @@ How to run the project:
 If it helps you please add the "Star" to this repo, thanks.
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/Araton95/Easy_Airdrop_dApp/master/mass-sending-screenshot.png)
+![alt text](https://github.com/kfa496/ERC20-BEP20-airdrop-dapp/blob/master/Screenshot.png)
 
