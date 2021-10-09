@@ -323,6 +323,13 @@ App = {
             id: 42
         }
         break
+      case 56:
+        return {
+          network: "Binance Smart Chain",
+            url: "https://bscscan.com/",
+            id: 56
+        }
+        break
       default:
         console.log('This is an unknown network.')
     }
