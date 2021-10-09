@@ -1,4 +1,4 @@
-# Decentrilized app for ERC20 / BEP20 Token airdrop
+# Dapp for ERC20 / BEP20 Token airdrops
 
 With this app, you can transfer your token until to 150 addresses at once, simple UI, configurations and features. <br><br>
 How to run the project:
@@ -10,7 +10,4 @@ How to run the project:
 * Enjoy
 
 If it helps you please add the "Star" to this repo, thanks.
-
-## Screenshots
-![alt text](https://github.com/kfa496/ERC20-BEP20-airdrop-dapp/blob/master/Screenshot.png)
 
